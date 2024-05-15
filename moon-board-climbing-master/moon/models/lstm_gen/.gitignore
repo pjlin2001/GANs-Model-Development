@@ -1,0 +1,7 @@
+sample.json
+input.txt
+vocab.pkl
+logs/
+save/
+data.npy
+sample.pickle
